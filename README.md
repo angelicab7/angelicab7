@@ -1,7 +1,8 @@
 ### Hi everyone , i'm Angélica Bonilla! 👋
 <div style="display: flex;">
-<img src="./Img/Readme-pic.svg" width=150>
-  
+<img src="./Img/Readme-pic.svg" width=200>
+<div>
+
  > 🌻 Since I started to learn about computer science fields,i fell in love with Front End.
  >
  > 🌻Curiosity and Growth Mindset
@@ -10,7 +11,10 @@
  >
  > 🌻Teamwork is better to succeed!
  >
- 
+
+</div>
+</div>
+
  
 </div>
 
