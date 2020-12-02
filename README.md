@@ -25,36 +25,36 @@ Const angelicaBonilla = {
 *im currently working with:*
 
 
-<img src="./Img/Html-logo.svg" width=40>
-<img src="./Img/Css-logo.svg" width=50>
-<img src="./Img/JavaScript-logo.svg" width=40>
-<img src="./Img/Sass-logo.svg" width=45>
-<img src="./Img/Firebase-logo.svg" width=100>
+<img src="./Img/Html-logo.svg" width=30>
+<img src="./Img/Css-logo.svg" width=40>
+<img src="./Img/JavaScript-logo.svg" width=30>
+<img src="./Img/Sass-logo.svg" width=35>
+<img src="./Img/Firebase-logo.svg" width=75>
 <br>
-<img src="./Img/npm-logo.png" width=40>
-<img src="./Img/git-logo.png" width=40>
-<img src="./Img/webpack-logo.png" width=40>
-<img src="./Img/jest-logo.png" width=30>
-<img src="./Img/Vsc-logo.png" width=40>
-<img src="./Img/github-logo.png" width=40>
-<img src="./Img/figma-logo.png" width=40>
+<img src="./Img/npm-logo.png" width=30>
+<img src="./Img/git-logo.png" width=30>
+<img src="./Img/webpack-logo.png" width=30>
+<img src="./Img/jest-logo.png" width=20>
+<img src="./Img/Vsc-logo.png" width=30>
+<img src="./Img/github-logo.png" width=30>
+<img src="./Img/figma-logo.png" width=30>
 
 
 *im currently learning:*
 
-<img src="./Img/React-logo.svg" width=60>
-<img src="./Img/react-testing-logo.png" width=40>
-<img src="./Img/material-ui-logo.png" width=50>
+<img src="./Img/React-logo.svg" width=40>
+<img src="./Img/react-testing-logo.png" width=30>
+<img src="./Img/material-ui-logo.png" width=30>
 
 
 
 
 *What i want to learn soon:*
 
-<img src="./Img/Node.js-logo.svg" width=60>
-<img src="./Img/phyton-logo.png" width=50>
-<img src="./Img/java-logo.png" width=50>
-<img src="./Img/react-native-logo.png" width=40>
+<img src="./Img/Node.js-logo.svg" width=40>
+<img src="./Img/phyton-logo.png" width=40>
+<img src="./Img/java-logo.png" width=40>
+<img src="./Img/react-native-logo.png" width=30>
 
 
 
