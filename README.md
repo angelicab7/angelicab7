@@ -1,6 +1,6 @@
 ### Hi everyone , i'm Angélica Bonilla! 👋
 <div style="display: flex;">
-<img src="./Img/Readme-pic.svg" width=200>
+<img src="./Img/Readme-pic.svg" width=150>
   
  > 🌻 Since I started to learn about computer science fields,i fell in love with Front End.
  >
