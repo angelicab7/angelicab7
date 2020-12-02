@@ -1,5 +1,22 @@
 ### Hi everyone , i'm Angélica Bonilla! 👋
+<div style="display: flex;">
 <img src="./Img/Readme-pic.svg" width=200>
+  
+ > 🌻 Since I started to learn about computer science fields,i fell in love with Front End.
+ >
+ > 🌻Curiosity and Growth Mindset
+ >
+ > 🌻Agile methodologies
+ >
+ > 🌻Teamwork is better to succeed!
+ >
+ 
+ 
+</div>
+
+
+### I'm a passionate woman in tech!
+
 ```javascript
 Const angelicaBonilla = {
   code: ["Javascript", "HTML", "CSS"],
@@ -8,19 +25,6 @@ Const angelicaBonilla = {
 }
 ```
 
- > *i'm a passionate woman in tech!*
- > 
- > 🌻 Since I started to learn about computer science fields,I fell in love with Front End.
- >
- > 🌻Curiosity and Growth Mindset
- >
- > 🌻Agile methodologies
- >
- > 🌻Teamwork is better to succeed!
- >
- >
- >
- 
 *im currently working with:*
 
 
