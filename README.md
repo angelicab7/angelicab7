@@ -1,7 +1,21 @@
-### Hi everyone , i'm Angélica Bonilla! 👋
+### Hi everyone, i'm Angélica Bonilla! 
+### Coder Girl
+
+*Like a normal girl, just way more awesome!*
+#
 <div style="display: flex;">
-<img src="./Img/Readme-pic.svg" width=200>
-<div>
+<img src="./Img/icon-girl-512.webp" width=200>
+</div>
+
+
+
+```javascript
+Const angelicaBonilla = {
+  code: ["Javascript", "HTML", "CSS"],
+  preprocessor: ["SASS"],
+  tools: ["React", "Firebase", "NodeJs","Webpack", "Jest"]
+}
+```
 
  > 🌻 Since I started to learn about computer science fields,i fell in love with Front End.
  >
@@ -11,23 +25,6 @@
  >
  > 🌻Teamwork is better to succeed!
  >
-
-</div>
-</div>
-
- 
-</div>
-
-
-### I'm a passionate woman in tech!
-
-```javascript
-Const angelicaBonilla = {
-  code: ["Javascript", "HTML", "CSS"],
-  preprocessor: ["SASS"],
-  tools: ["React", "Firebase", "NodeJs","Webpack", "Jest"]
-}
-```
 
 *im currently working with:*
 
