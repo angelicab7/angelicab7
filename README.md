@@ -4,7 +4,7 @@
 *Like a normal girl, just way more awesome!*
 #
 <div style="display: flex;">
-<img src="./Img/icon-girl-512.webp" width=200>
+<img src="./Img/girl-icon.jpg" width=200>
 </div>
 
 
