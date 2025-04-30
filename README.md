@@ -1,4 +1,4 @@
 ### Hi everyone, I'm Angelica Bonilla! 
-### Software Development Engineer in Test at Guidewire Software
+### QA Engineer at Fidelity Investments
 
 *Like a normal girl, just way more awesome!*
