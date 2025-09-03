@@ -2,7 +2,7 @@
 *Like a normal girl, just way more awesome!*
 
 
-I am a skilled **QA Engineer** with a strong background in software quality assurance and test automation. I'm passionate about building robust, efficient, and reliable systems that ensure a seamless user experience.
+I am a skilled **QA Engineer** with a strong background in software quality assurance and test automation. I'm passionate about design, development and execution of test cases that ensures a seamless user experience.
 
 ---
 
